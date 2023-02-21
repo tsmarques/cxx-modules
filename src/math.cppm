@@ -8,7 +8,8 @@ export namespace cxx::math
 {
     constexpr double v1 = 0.23;
 
-    double some_function()
+    double
+    some_function()
     {
         return 12.02;
     }
